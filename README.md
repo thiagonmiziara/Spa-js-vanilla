@@ -1,7 +1,6 @@
 <h1>Projeto Spa com JavaScript Vanilla</h1>
 <img src="./spa-js.jpg">
-Para a aplicação funcionar na sua máquina você tem que dar o comando 
-```npm run build```
+Para a aplicação funcionar na sua máquina você tem que dar o comando npm run build
 
 E depois `npm start` para rodar o servidor local.
 
